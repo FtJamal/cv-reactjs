@@ -1,0 +1,34 @@
+.body{
+    background-color: gainsboro;
+}
+
+.name{
+font-size: 45px;
+
+}
+.contact{
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #315d83;
+    padding: 10px;
+    justify-content: space-around;
+    color: white;
+}
+.h{
+    text-decoration: underline;
+    margin-bottom: 0px;
+    padding-bottom:0px ;
+}
+.footer{
+    background-color:  rgb(172, 201, 229);
+    height: 50px;
+}
+.one{
+    padding: 20px;
+}
